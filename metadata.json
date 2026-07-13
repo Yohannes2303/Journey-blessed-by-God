@@ -1,0 +1,6 @@
+{
+  "name": "A Journey Blessed by God",
+  "description": "A digital memory book dedicated to three Korean friends who served together in ministry, expressing gratitude, friendship, and Christian faith.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
